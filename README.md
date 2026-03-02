@@ -1,14 +1,16 @@
 
 # 👨‍💻 Jhonattan R.
 
-**`Desenvolvedor Full Stack em Formação`**
+**`Analista de Sistemas | Suporte Técnico N2 | SQL | Python`**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-  Atuei por anos como Analista de Suporte com experiência em manutenção de sistemas, redes, infraestrutura e tudo o que faz um ambiente de TI funcionar na prática. Com isso consegui uma base sólida para entender problemas, pensar em soluções rápidas e manter tudo de pé quando dá ruim rs.
+  Atuo como Analista de Suporte Técnico N2 com experiência em sustentação de aplicações, ERP, extração de dados via SQL e desenvolvimento em Python.
   <br><br>
-  Atualmente estou em transição para o desenvolvimento. Curso Análise e Desenvolvimento de Sistemas, estudo Programação com bastante dedicação e estou me aprofundando no universo web para me tornar um Desenvolvedor Full Stack.
+  Tenho atuação prática em melhoria de processos, controle de ativos, regras de acesso, extração de relatórios e apoio técnico a áreas de negócio.
+  <br><br>
+  Estou em transição para Análise de Sistemas, aprofundando conhecimentos em desenvolvimento e integrações.
 </p>
 
 <p align="left">
